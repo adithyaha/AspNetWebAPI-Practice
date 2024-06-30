@@ -1,0 +1,62 @@
+[
+    {
+        "CarName": "Toyota Corolla",
+        "Category": "Sedan",
+        "CarPrice": 20000
+    },
+    {
+        "CarName": "Honda Civic",
+        "Category": "Sedan",
+        "CarPrice": 22000
+    },
+    {
+        "CarName": "Ford Mustang",
+        "Category": "Coupe",
+        "CarPrice": 35000
+    },
+    {
+        "CarName": "Chevrolet Camaro",
+        "Category": "Coupe",
+        "CarPrice": 37000
+    },
+    {
+        "CarName": "Tesla Model 3",
+        "Category": "Electric",
+        "CarPrice": 45000
+    },
+    {
+        "CarName": "Nissan Leaf",
+        "Category": "Electric",
+        "CarPrice": 32000
+    },
+    {
+        "CarName": "BMW X5",
+        "Category": "SUV",
+        "CarPrice": 60000
+    },
+    {
+        "CarName": "Audi Q7",
+        "Category": "SUV",
+        "CarPrice": 65000
+    },
+    {
+        "CarName": "Mercedes-Benz C-Class",
+        "Category": "Sedan",
+        "CarPrice": 42000
+    },
+    {
+        "CarName": "Hyundai Elantra",
+        "Category": "Sedan",
+        "CarPrice": 19000
+    },
+    {
+        "CarName": "Kia Sorento",
+        "Category": "SUV",
+        "CarPrice": 30000
+    },
+    {
+        "CarName": "Jeep Wrangler",
+        "Category": "SUV",
+        "CarPrice": 40000
+    }
+]

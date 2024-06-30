@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xzaXgMJRgD6WRoKvbDsHb0F0giwRRXcDWc/intKDi1s=",
+  "Source": "CarsAPI-InMemoryDatabase",
+  "BasePath": "_content/CarsAPI-InMemoryDatabase",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

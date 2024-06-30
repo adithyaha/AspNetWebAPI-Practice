@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\AspNetCoreWebAPI-Practice\\CarsAPI-InMemoryDatabase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A28E5609-A683-4FFA-9DB4-0D1C8D25D8D2}|CarsAPI-InMemoryDatabase\\CarsAPI-InMemoryDatabase.csproj|c:\\users\\user\\aspnetcorewebapi-practice\\carsapi-inmemorydatabase\\carsapi-inmemorydatabase\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A28E5609-A683-4FFA-9DB4-0D1C8D25D8D2}|CarsAPI-InMemoryDatabase\\CarsAPI-InMemoryDatabase.csproj|solutionrelative:carsapi-inmemorydatabase\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A28E5609-A683-4FFA-9DB4-0D1C8D25D8D2}|CarsAPI-InMemoryDatabase\\CarsAPI-InMemoryDatabase.csproj|c:\\users\\user\\aspnetcorewebapi-practice\\carsapi-inmemorydatabase\\carsapi-inmemorydatabase\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A28E5609-A683-4FFA-9DB4-0D1C8D25D8D2}|CarsAPI-InMemoryDatabase\\CarsAPI-InMemoryDatabase.csproj|solutionrelative:carsapi-inmemorydatabase\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A28E5609-A683-4FFA-9DB4-0D1C8D25D8D2}|CarsAPI-InMemoryDatabase\\CarsAPI-InMemoryDatabase.csproj|c:\\users\\user\\aspnetcorewebapi-practice\\carsapi-inmemorydatabase\\carsapi-inmemorydatabase\\repository\\carsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A28E5609-A683-4FFA-9DB4-0D1C8D25D8D2}|CarsAPI-InMemoryDatabase\\CarsAPI-InMemoryDatabase.csproj|solutionrelative:carsapi-inmemorydatabase\\repository\\carsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A28E5609-A683-4FFA-9DB4-0D1C8D25D8D2}|CarsAPI-InMemoryDatabase\\CarsAPI-InMemoryDatabase.csproj|c:\\users\\user\\aspnetcorewebapi-practice\\carsapi-inmemorydatabase\\carsapi-inmemorydatabase\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A28E5609-A683-4FFA-9DB4-0D1C8D25D8D2}|CarsAPI-InMemoryDatabase\\CarsAPI-InMemoryDatabase.csproj|solutionrelative:carsapi-inmemorydatabase\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A28E5609-A683-4FFA-9DB4-0D1C8D25D8D2}|CarsAPI-InMemoryDatabase\\CarsAPI-InMemoryDatabase.csproj|c:\\users\\user\\aspnetcorewebapi-practice\\carsapi-inmemorydatabase\\carsapi-inmemorydatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A28E5609-A683-4FFA-9DB4-0D1C8D25D8D2}|CarsAPI-InMemoryDatabase\\CarsAPI-InMemoryDatabase.csproj|solutionrelative:carsapi-inmemorydatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A28E5609-A683-4FFA-9DB4-0D1C8D25D8D2}|CarsAPI-InMemoryDatabase\\CarsAPI-InMemoryDatabase.csproj|c:\\users\\user\\aspnetcorewebapi-practice\\carsapi-inmemorydatabase\\carsapi-inmemorydatabase\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A28E5609-A683-4FFA-9DB4-0D1C8D25D8D2}|CarsAPI-InMemoryDatabase\\CarsAPI-InMemoryDatabase.csproj|solutionrelative:carsapi-inmemorydatabase\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A28E5609-A683-4FFA-9DB4-0D1C8D25D8D2}|CarsAPI-InMemoryDatabase\\CarsAPI-InMemoryDatabase.csproj|c:\\users\\user\\aspnetcorewebapi-practice\\carsapi-inmemorydatabase\\carsapi-inmemorydatabase\\repository\\services\\icarsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A28E5609-A683-4FFA-9DB4-0D1C8D25D8D2}|CarsAPI-InMemoryDatabase\\CarsAPI-InMemoryDatabase.csproj|solutionrelative:carsapi-inmemorydatabase\\repository\\services\\icarsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Input.txt",
+              "DocumentMoniker": "C:\\Users\\user\\AspNetCoreWebAPI-Practice\\CarsAPI-InMemoryDatabase\\CarsAPI-InMemoryDatabase\\Input.txt",
+              "RelativeDocumentMoniker": "CarsAPI-InMemoryDatabase\\Input.txt",
+              "ToolTip": "C:\\Users\\user\\AspNetCoreWebAPI-Practice\\CarsAPI-InMemoryDatabase\\CarsAPI-InMemoryDatabase\\Input.txt",
+              "RelativeToolTip": "CarsAPI-InMemoryDatabase\\Input.txt",
+              "ViewState": "AQIAABEAAAAAAAAAAAAuwB4AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-30T11:58:56.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarsController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\AspNetCoreWebAPI-Practice\\CarsAPI-InMemoryDatabase\\CarsAPI-InMemoryDatabase\\Controllers\\CarsController.cs",
+              "RelativeDocumentMoniker": "CarsAPI-InMemoryDatabase\\Controllers\\CarsController.cs",
+              "ToolTip": "C:\\Users\\user\\AspNetCoreWebAPI-Practice\\CarsAPI-InMemoryDatabase\\CarsAPI-InMemoryDatabase\\Controllers\\CarsController.cs",
+              "RelativeToolTip": "CarsAPI-InMemoryDatabase\\Controllers\\CarsController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAuwCAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T10:40:07.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\AspNetCoreWebAPI-Practice\\CarsAPI-InMemoryDatabase\\CarsAPI-InMemoryDatabase\\Repository\\CarsRepository.cs",
+              "RelativeDocumentMoniker": "CarsAPI-InMemoryDatabase\\Repository\\CarsRepository.cs",
+              "ToolTip": "C:\\Users\\user\\AspNetCoreWebAPI-Practice\\CarsAPI-InMemoryDatabase\\CarsAPI-InMemoryDatabase\\Repository\\CarsRepository.cs",
+              "RelativeToolTip": "CarsAPI-InMemoryDatabase\\Repository\\CarsRepository.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAuwFsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T09:39:18.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\user\\AspNetCoreWebAPI-Practice\\CarsAPI-InMemoryDatabase\\CarsAPI-InMemoryDatabase\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "CarsAPI-InMemoryDatabase\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\user\\AspNetCoreWebAPI-Practice\\CarsAPI-InMemoryDatabase\\CarsAPI-InMemoryDatabase\\Models\\Car.cs",
+              "RelativeToolTip": "CarsAPI-InMemoryDatabase\\Models\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T09:37:36.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\AspNetCoreWebAPI-Practice\\CarsAPI-InMemoryDatabase\\CarsAPI-InMemoryDatabase\\Program.cs",
+              "RelativeDocumentMoniker": "CarsAPI-InMemoryDatabase\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\AspNetCoreWebAPI-Practice\\CarsAPI-InMemoryDatabase\\CarsAPI-InMemoryDatabase\\Program.cs",
+              "RelativeToolTip": "CarsAPI-InMemoryDatabase\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T09:34:34.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\AspNetCoreWebAPI-Practice\\CarsAPI-InMemoryDatabase\\CarsAPI-InMemoryDatabase\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CarsAPI-InMemoryDatabase\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\user\\AspNetCoreWebAPI-Practice\\CarsAPI-InMemoryDatabase\\CarsAPI-InMemoryDatabase\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CarsAPI-InMemoryDatabase\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-30T09:33:59.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICarsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\AspNetCoreWebAPI-Practice\\CarsAPI-InMemoryDatabase\\CarsAPI-InMemoryDatabase\\Repository\\Services\\ICarsRepository.cs",
+              "RelativeDocumentMoniker": "CarsAPI-InMemoryDatabase\\Repository\\Services\\ICarsRepository.cs",
+              "ToolTip": "C:\\Users\\user\\AspNetCoreWebAPI-Practice\\CarsAPI-InMemoryDatabase\\CarsAPI-InMemoryDatabase\\Repository\\Services\\ICarsRepository.cs",
+              "RelativeToolTip": "CarsAPI-InMemoryDatabase\\Repository\\Services\\ICarsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T09:38:24.639Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
