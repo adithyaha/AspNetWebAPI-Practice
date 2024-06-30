@@ -1,0 +1,93 @@
+[
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "publisher": "Scribner",
+    "publishedDate": "1925-04-10",
+    "genre": "Fiction"
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "publisher": "Secker & Warburg",
+    "publishedDate": "1949-06-08",
+    "genre": "Dystopian"
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "publisher": "J.B. Lippincott & Co.",
+    "publishedDate": "1960-07-11",
+    "genre": "Fiction"
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "publisher": "T. Egerton",
+    "publishedDate": "1813-01-28",
+    "genre": "Romance"
+  },
+  {
+    "title": "Moby Dick",
+    "author": "Herman Melville",
+    "publisher": "Harper & Brothers",
+    "publishedDate": "1851-10-18",
+    "genre": "Adventure"
+  },
+  {
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "publisher": "The Russian Messenger",
+    "publishedDate": "1869-01-01",
+    "genre": "Historical"
+  },
+  {
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "publisher": "The Russian Messenger",
+    "publishedDate": "1866-01-01",
+    "genre": "Psychological"
+  },
+  {
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "publisher": "Chatto & Windus",
+    "publishedDate": "1932-08-01",
+    "genre": "Science Fiction"
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "publisher": "Little, Brown and Company",
+    "publishedDate": "1951-07-16",
+    "genre": "Fiction"
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "publisher": "George Allen & Unwin",
+    "publishedDate": "1937-09-21",
+    "genre": "Fantasy"
+  },
+  {
+    "title": "One Hundred Years of Solitude",
+    "author": "Gabriel Garcia Marquez",
+    "publisher": "Harper & Row",
+    "publishedDate": "1967-05-30",
+    "genre": "Magical Realism"
+  },
+  {
+    "title": "Don Quixote",
+    "author": "Miguel de Cervantes",
+    "publisher": "Francisco de Robles",
+    "publishedDate": "1605-01-16",
+    "genre": "Adventure"
+  },
+  {
+    "title": "Harry Potter and the Philosopher's Stone",
+    "author": "J.K. Rowling",
+    "publisher": "Bloomsbury",
+    "publishedDate": "1997-06-26",
+    "genre": "Fantasy"
+  }
+]
