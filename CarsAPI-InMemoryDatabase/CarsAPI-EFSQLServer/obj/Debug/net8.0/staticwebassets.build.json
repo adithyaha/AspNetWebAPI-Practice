@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bhG/hKEbD+3K44+qJKDR0oVB1p21Gp/f3RYla3zjn8U=",
+  "Source": "CarsAPI-EFSQLServer",
+  "BasePath": "_content/CarsAPI-EFSQLServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
